@@ -144,3 +144,26 @@ a:hover {
   object-fit: cover;
   display: inline-block;
 }
+
+.quotes-section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #E5E7EB;
+  padding: 96px 0;
+}
+
+.quote-card {
+  width: 620px;
+}
+
+.quote {
+  font-size: 36px;
+  font-style: italic;
+  font-weight: 250;
+}
+
+.quote-author {
+  text-align: right;
+  font-weight: 600;
+}
