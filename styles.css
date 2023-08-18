@@ -212,3 +212,13 @@ a:hover {
 .signup-text {
   color: #E5E7EB;
 }
+
+.footer-section {
+  padding: 24px 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1F2937;
+  color: #E5E7EB;
+  font-weight: 500;
+}
